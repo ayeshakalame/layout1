@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header{
+    background-color: rgb(175, 255, 211);
+    text-align: center;
+    height: 100px;
+}
+.banner{
+    background-color: rgb(97, 150, 117);
+    text-align: center;
+    height: 300px;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(163, 202, 137);
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    float: left;
+}
+.right_content{
+    background-color: rgb(73, 107, 77);
+    text-align: center;
+    height: 200px;
+    width: 50%;
+    float: right;
+}
+.second_content{
+    overflow: hidden;
+}
+.long_content{
+    width: 75%;
+    text-align: center;
+    background-color: rgb(102, 153, 132);
+    height: 100px;
+    float: left;
+}
+.short_content{
+    background-color: rgb(156, 192, 147);
+    text-align: center;
+    height: 100px;
+    width: 25%;
+    float: right;
+}
+.third_content{
+    overflow: hidden;
+    text-align: center;
+}
+.client_one{
+    background-color: rgb(119, 139, 107);
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    float: left;
+}
+.client_two{
+    background-color: rgb(197, 255, 202);
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    float: left;
+}
+.client_three{
+    background-color: rgb(108, 131, 113);
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    float: left;
+}
+.client_four{
+    background-color: rgb(143, 255, 169);
+    text-align: center;
+    height: 50px;
+    width: 25%;
+    float: left;
+}
+.footer{
+    background-color: rgb(156, 190, 169);
+    text-align: center;
+    height: 100px;
+}
